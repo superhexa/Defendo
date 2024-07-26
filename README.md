@@ -1,3 +1,5 @@
+![img](https://github.com/user-attachments/assets/b4c4f084-4411-4aef-8399-a26e6a0cd10b)
+
 **Defendo** is a straightforward yet effective antivirus tool designed to protect your system from malware. It utilizes hash files to identify and check for known malicious software. Built in Python, Defendo is lightweight and easy to set up, making it accessible for users who need a basic level of security without the complexity of more advanced solutions.
 
 ---
